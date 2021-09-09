@@ -22,6 +22,8 @@ int main()
   root->left->left=new node(5);
   root->right->left=new node(4);
 
+  cout<<"Done with Insertion:";
+
 return 0;
 }
 
